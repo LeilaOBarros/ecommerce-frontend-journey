@@ -14,4 +14,4 @@
 * Exercitar as principais tecnologias de Desenvolvimento Web Front-End de forma prática.
 
 ### Link do E-commerce hospedado no GitHub Pages:
-*
+* https://leilaobarros.github.io/journey-frontend-ecommerce/
